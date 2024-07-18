@@ -18,9 +18,9 @@ Here is one example of the stylised generated image using the project.
      <td align="center">Generated Image</td>
   </tr>
   <tr>
-    <td><img src="NST/Images/content_image.jpg" width=340 height=300></td>
-    <td><img src="NST/Images/style_image.jpg" width=340 height=300></td>
-    <td><img src="NST/Images/generated_image.png" width=340 height=300></td>
+    <td><img src="Images/content_image.jpg" width=340 height=300></td>
+    <td><img src="Images/style_image.jpg" width=340 height=300></td>
+    <td><img src="Images/generated_image.png" width=340 height=300></td>
   </tr>
  </table>
 
